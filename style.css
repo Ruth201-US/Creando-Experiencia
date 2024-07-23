@@ -1,0 +1,14 @@
+.cartas{
+   font-size: 10px;
+  }
+
+nav {
+    display: flex;
+    padding: 50px;
+    font-size: 70px;
+}
+
+.grupotrabajo {
+font-style: oblique;
+margin: 100px;
+}
