@@ -1,14 +1,36 @@
-.cartas{
-   font-size: 10px;
-  }
-
-nav {
-    display: flex;
-    padding: 50px;
-    font-size: 70px;
+body{
+  background-color: rgb(173, 242, 161);
+}
+#Trabajo{
+  display: flex;
+justify-content: flex-start;
+margin: 15px;
+height: 35px;
+font-size: 35px;
 }
 
-.grupotrabajo {
-font-style: oblique;
-margin: 100px;
+  
+
+.cartas{
+   font-size: 15px;
+   margin: 50px;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+  }
+
+
+
+.me-2{
+display: flex;
+font-size: 20px;
+text-align: start;
+width: 200px;
+height: 50px;
+}
+
+.buscador{
+  display: flex;
+  justify-content: flex-end;
 }
