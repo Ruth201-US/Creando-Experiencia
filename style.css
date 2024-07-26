@@ -2,39 +2,32 @@
 #Trabajo{
   display: flex;
 justify-content: flex-start;
-margin: 15px;
-height: 20px;
+margin: 10px;
 font-size: 20px;
 }
 
 .cartel{
-  width: 1515px;
+  width: 1550px;
   height: 550px;
 
 }
+
 nav{
   display: flex;
-  justify-content: end;
-  height: 45px;
+  justify-content: flex-start;
+  align-items: center;
+  height: 80px;
+  margin-left: 10px;
 }
 
+.logo{
+display: flex;
+width: 75px;
+height: 75px;
+}
 
 .buscador{
   display: flex;
   justify-content: flex-end;
 }
-
-
-.cartas{
-  font-size: 15px;
-  margin: 50px;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  background-image: url(img3.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 1200px;
- }
 
