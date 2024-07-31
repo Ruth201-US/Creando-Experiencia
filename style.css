@@ -1,3 +1,10 @@
+body{
+ background-color: rgb(216, 155, 255);
+}
+
+h1{
+  color: rgb(0, 0, 0);
+}
 
 #Trabajo{
   display: flex;
@@ -24,9 +31,36 @@ nav{
 display: flex;
 width: 75px;
 height: 75px;
+
 }
 
-.buscador{
+
+.info{
   display: flex;
+<<<<<<< HEAD
   justify-content: flex-end;
 }
+=======
+  justify-content: center;
+  align-items: center;
+}
+
+
+.parrafo{
+  color: rgb(151, 51, 245);
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.parrafo2{
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+  
+  display: flex;
+  height: 200px;
+  align-items: center;
+}
+
+>>>>>>> d91f463f910ae2c15bf90a38da39d5b89fbd00ea
